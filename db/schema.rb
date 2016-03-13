@@ -11,7 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20160311153837) do
+ActiveRecord::Schema.define(version: 20160313034933) do
 
   create_table "figure_titles", force: :cascade do |t|
     t.integer "title_id"
